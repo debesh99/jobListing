@@ -8,7 +8,7 @@ public class JobListingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JobListingApplication.class, args);
-//		Dummy commit
+//		Dummy commits
 	}
 
 }
